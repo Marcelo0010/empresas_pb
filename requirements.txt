@@ -1,0 +1,6 @@
+pandas
+geopandas
+geobr
+plotly
+dash
+openpyxl
