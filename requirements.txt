@@ -3,4 +3,5 @@ geopandas
 geobr
 plotly
 dash
+dash_bootstrap_components
 openpyxl
