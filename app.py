@@ -164,4 +164,5 @@ def atualizar_conteudo(tab, setor, subclasse):
 
 # === RODA A APLICAÇÃO ===
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(debug=True, host='0.0.0.0', port=8080)
+
